@@ -54,4 +54,4 @@ def get_all_tasks():
 
 
 if __name__ == '__main__':
-    get_all_records()
+    get_all_tasks()
